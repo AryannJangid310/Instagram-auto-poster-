@@ -1,0 +1,21 @@
+{
+  "name": "insta-auto-poster",
+  "version": "1.0.0",
+  "description": "Instagram automation tool using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "instagram",
+    "automation",
+    "puppeteer",
+    "bot"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "puppeteer": "^24.34.0"
+  }
+}
